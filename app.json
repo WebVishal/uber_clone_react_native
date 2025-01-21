@@ -26,7 +26,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDOOoH9joNc3n_-MpILauesW_qLNJzzh4Q"
+          "apiKey": process.env.GOOGLE_MAP_KEY
         }
       },
       "package": "com.webvishal.uberclone"
